@@ -1,0 +1,312 @@
+      .mobile {
+        position: absolute;
+        height: 40rem;
+        width: 20.1rem;
+        background-color: rgb(0, 0, 0);
+        top: 6%;
+        left: 35%;
+        border-radius: 40px;
+        overflow: hidden;
+      }
+      #screen {
+        position: absolute;
+        height: 38.5rem;
+        width: 18.5rem;
+        background: transparent;
+
+        top: 2%;
+
+        left: 4%;
+        border-radius: 40px;
+        overflow: hidden;
+      }
+      #display {
+        position: absolute;
+        height: 38.5rem;
+        width: 18.5rem;
+        background: url(jLzqvN.jpg);
+
+        top: 2%;
+
+        left: 4%;
+        border-radius: 40px;
+      }
+      #display2 {
+        position: absolute;
+        height: 38.5rem;
+        width: 18.5rem;
+        background: rgba(255, 255, 255, 0.2);
+        backdrop-filter: blur(3px);
+
+        top: 2%;
+
+        left: 4%;
+        border-radius: 40px;
+      }
+
+      #camera {
+        position: absolute;
+        top: 2%;
+        left: 35%;
+        height: 1.5rem;
+        width: 5.5rem;
+        background-color: rgb(0, 0, 0);
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+      }
+      #toolbar {
+        position: absolute;
+        top: 3.1%;
+        left: 7.9%;
+        font-size: 12px;
+        color: rgba(255, 255, 255, 0.835);
+      }
+      #camera2 {
+        position: absolute;
+        top: 2%;
+        left: 44.6%;
+      }
+      .allapp {
+        font-size: 15px;
+      }
+      #app1 {
+        position: absolute;
+        top: 10%;
+        left: 9%;
+      }
+      #app2 {
+        position: absolute;
+        top: 10%;
+        left: 33%;
+      }
+      #app3 {
+        position: absolute;
+        top: 10%;
+        left: 67%;
+      }
+      #app4 {
+        position: absolute;
+        top: 22.5%;
+        left: 13%;
+      }
+      #app5 {
+        position: absolute;
+        top: 24%;
+        left: 41%;
+      }
+      #app6 {
+        position: absolute;
+        top: 24%;
+        left: 69%;
+      }
+      #app7 {
+        position: absolute;
+        top: 38%;
+        left: 14%;
+      }
+      #app8 {
+        position: absolute;
+        top: 38.5%;
+        left: 40%;
+      }
+      #app9 {
+        position: absolute;
+        top: 38%;
+        left: 68.2%;
+      }
+      #app10 {
+        position: absolute;
+        top: 52%;
+        left: 13.8%;
+      }
+      #app11 {
+        position: absolute;
+        top: 52%;
+        left: 40.5%;
+      }
+      #app12 {
+        position: absolute;
+        top: 85%;
+        left: 12%;
+      }
+      #app13 {
+        position: absolute;
+        top: 85.4%;
+        left: 32%;
+      }
+      #app14 {
+        position: absolute;
+        top: 85.5%;
+        left: 53.5%;
+      }
+      #app15 {
+        position: absolute;
+        top: 85.2%;
+        left: 74%;
+      }
+      #slide1 {
+        position: absolute;
+        top: 80%;
+        left: 45%;
+        width: 0.5rem;
+        height: 0.5rem;
+        background-color: white;
+        border-radius: 50%;
+      }
+      #slide2 {
+        position: absolute;
+        top: 80%;
+        left: 49%;
+        width: 0.5rem;
+        height: 0.5rem;
+        background-color: white;
+        border-radius: 50%;
+      }
+      #slide3 {
+        position: absolute;
+        top: 80%;
+        left: 53%;
+        width: 0.5rem;
+        height: 0.5rem;
+        background-color: white;
+        border-radius: 50%;
+      }
+      #toolbar2 {
+        position: absolute;
+        top: -111%;
+        left: 0%;
+        height: 38.5rem;
+        width: 18.5rem;
+        background: rgba(255, 255, 255, 0.6);
+        backdrop-filter: blur(9px);
+        transition-duration: 0.2s;
+      }
+      #box {
+        position: absolute;
+        top: 13%;
+        left: 3%;
+        background-color: rgba(87, 86, 85, 0.808);
+        width: 17.4rem;
+        height: 6rem;
+        border-radius: 1rem;
+      }
+      #timing {
+        position: absolute;
+        top: 5%;
+        left: 3.2%;
+      }
+      .circle {
+        position: absolute;
+        top: 11%;
+        background: rgba(133, 123, 112, 0.671);
+        width: 2.5rem;
+        height: 2.5rem;
+        border-radius: 50%;
+        text-align: center;
+      }
+      #first {
+        position: absolute;
+        left: 4%;
+      }
+      #second {
+        position: absolute;
+        left: 23%;
+      }
+      #third {
+        position: absolute;
+        left: 42%;
+      }
+      #fourth {
+        position: absolute;
+        left: 61%;
+      }
+      #five {
+        position: absolute;
+        left: 81%;
+      }
+      #below {
+        position: absolute;
+        left: 2%;
+      }
+      #first > img {
+        position: absolute;
+        top: 19%;
+        left: 17%;
+      }
+      #third > img {
+        position: absolute;
+        top: 21%;
+        left: 17%;
+      }
+      #img2 {
+        position: absolute;
+        top: 31%;
+        left: 24%;
+      }
+      #fourth > img {
+        position: absolute;
+        top: 19%;
+        left: 19%;
+      }
+      #five > img {
+        position: absolute;
+        top: 24%;
+        left: 23.5%;
+      }
+      #smallbox {
+        position: absolute;
+        width: 17.4rem;
+        height: 2rem;
+        top: 30%;
+        left: 3%;
+        background-color: rgba(87, 86, 85, 0.808);
+        border-radius: 1rem;
+        overflow: hidden;
+      }
+      #smallbox > span {
+        position: absolute;
+        width: 5rem;
+        height: 2rem;
+        top: 0%;
+        left: 0%;
+        background: rgba(247, 245, 239, 0.787);
+      }
+      #smallbox > span > img {
+        position: absolute;
+        top: 24%;
+        left: 9%;
+      }
+      #lastbox {
+        position: absolute;
+        top: 36%;
+        left: 42%;
+        background-color: rgba(87, 86, 85, 0.808);
+        border-radius: 30px;
+        width: 40px;
+        height: 8px;
+      }
+
+      @media (max-width: 420px) {
+        #toolbar {
+          font-size: 11px;
+          position: absolute;
+          left: 7.7%;
+        }
+        .mobile {
+          position: absolute;
+          left: 32%;
+        }
+        #app1 {
+          left: 8.7%;
+        }
+        #app3 {
+          left: 67.7%;
+        }
+        .allapp {
+          font-size: 13px;
+        }
+        body {
+          position: absolute;
+          padding: 20px;
+        }
+      }
